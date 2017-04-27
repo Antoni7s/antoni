@@ -1,0 +1,4 @@
+function js(a, b){
+a*b;
+return a*b;
+}
